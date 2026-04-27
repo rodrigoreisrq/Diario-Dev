@@ -1,3 +1,5 @@
+package Aulas;
+
 import java.util.Scanner;
 
 public class Main {
@@ -44,10 +46,10 @@ public class Main {
             System.out.println("Digite sua senha: ");
             int senha = scanner.nextInt();
 
-            public boolean equals(Obejct obj)
-                if (email.equals(email) && senha.(senha)){
-                System.out.println("Login efetuado com sucesso!");
-                }
+//            public boolean equals()
+//                if (email.equals(email) && senha.(senha)){
+//                System.out.println("Login efetuado com sucesso!");
+//                }
 
         }
 
