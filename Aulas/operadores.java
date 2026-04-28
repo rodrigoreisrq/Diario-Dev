@@ -2,6 +2,7 @@ package Aulas;
 
 public class operadores {
     public static void main(String[]args){
+        // Operadores simples
         int numero1 = 20;
         int numero2 = 30;
 
