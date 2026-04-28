@@ -24,7 +24,7 @@ public class relacionais {
         else {
             System.out.println("O número é impar!");
         }
-        // -----------------------------------------------------------
+        // -------------------------------------------------------------
 
         // < > - <=(menor igual) >=(maior igual) ==(igual) !=(diferente)
         boolean resultado = 10 != 20;
