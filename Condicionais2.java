@@ -27,6 +27,7 @@ public class Condicionais2 {
             categoria = "Inscrições a partir dos 10 anos de idade!";
         }
         System.out.println(categoria);
+        
     }
     }
 
