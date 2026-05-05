@@ -25,6 +25,7 @@ public class Atribuicao {
         // Dessa forma, ele incrementa o valor 1 antes de msm de printar a mensagem
         System.out.println(++contador2); // Resultado = 1
         //System.out.println(contador2++);
+        
 
     }
 }
